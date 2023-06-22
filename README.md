@@ -45,7 +45,7 @@ Check whether your system has the above requirements with the following commands
 
 #### Steps to run the extension using the source code
 
-- Download the source code from GitHub or clone [the repository](https://github.com/sanidhyas3s/Vizualize) using `git clone`.
+- Download the source code from GitHub or clone [the repository](https://github.com/Shaurya0104/Vizualize) using `git clone`.
 - Open the project directory in VS Code either through the GUI or through the terminal using the command `code vizualize` from the parent directory of the project directory(vizualize).
 - Run the extension through the option `Debug: Start Debugging` from the commands list (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> / <kbd>⌘</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) or alternatively using the keyboard shortcut <kbd>F5</kbd> for the same.
 - Now, in the `Extension Development Host` environment, you would have our extension activated. The extension would not be enabled globally in VS Code through this method.
@@ -53,7 +53,7 @@ Check whether your system has the above requirements with the following commands
 It should be noted that the `node_modules` folder is included in the repository, as it is a relatively lightweight component of our project. However, should you choose not to download this folder, you can run the command `npm i` to install it.
 
 
-Contributions to the project are absolutely welcome. If you find a bug, have a feature request, or want to contribute code, please submit an issue or pull request on the [project's GitHub page](https://github.com/sanidhyas3s/Vizualize).
+Contributions to the project are absolutely welcome. If you find a bug, have a feature request, or want to contribute code, please submit an issue or pull request on the [project's GitHub page](https://github.com/Shaurya0104/Vizualize).
 
 No one writes perfect code, like we help you find bugs in your code, you can also help us find bugs in ours!
 
